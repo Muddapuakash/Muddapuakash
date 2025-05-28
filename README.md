@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muddapuakash&label=Profile%20views&color=0e75b6&style=flat" alt="muddapuakash" /> </p>
 
-- 🌱 I’m currently learning **DSA With Python,Frameworks,FullStack with Python**
+- 🌱 I’m currently learning **DSA With Python,Frameworks,FullStack with Java**
 
 - 📫 How to reach me **akashmuddapu@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1QMuobCa8J5oheycRDRFCd8BHVg4YoIZD/view?usp=sharing](https://drive.google.com/file/d/1QMuobCa8J5oheycRDRFCd8BHVg4YoIZD/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1yaWAa1GyjLKNjTHbEC4DtbDRsPHhAGKY/view?usp=sharing]
 
 - ⚡ Fun fact **I am Funny**
 
