@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muddapuakash&label=Profile%20views&color=0e75b6&style=flat" alt="muddapuakash" /> </p>
 
-- 🌱 I’m currently learning **DSA With Python,Frameworks,FullStack with Java**
+- 🌱 I’m currently learning **DSA With Java,Frameworks,FullStack with Java**
 
 - 📫 How to reach me **akashmuddapu@gmail.com**
 
