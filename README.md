@@ -148,14 +148,14 @@ $ git log --oneline --graph --decorate
 <div align="center">
 
 ```
-                                                        ┌─────────────────────────────────────────────────────┐
-                                                        │                                                     │
-                                                        │   > console.log("Thanks for visiting! 🙌")          │
-                                                        │   Thanks for visiting! 🙌                           │
-                                                        │                                                      │
-                                                        │   > undefined                                       │
-                                                        │                                                     │
-                                                        └─────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────┐
+│                                                     │
+│   > console.log("Thanks for visiting! 🙌")          │
+│   Thanks for visiting! 🙌                           │
+│                                                      │
+│   > undefined                                       │
+│                                                     │
+└─────────────────────────────────────────────────────┘
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,50:0a3d2e,100:0d0d0d&height=100&section=footer" />
