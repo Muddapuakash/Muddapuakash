@@ -66,9 +66,9 @@ const developer = {
 **Frameworks & Runtime**
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-1e1e2e?style=for-the-badge&logo=springboot&logoColor=6DB33F)
-![Angular](https://img.shields.io/badge/Angular-1e1e2e?style=for-the-badge&logo=angular&logoColor=DD0031)
+![React](https://img.shields.io/badge/React-1e1e2e?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-1e1e2e?style=for-the-badge&logo=node.js&logoColor=6DA55F)
-![Django](https://img.shields.io/badge/Django-1e1e2e?style=for-the-badge&logo=django&logoColor=092E20)
+
 
 **Databases & Cloud**
 
